@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SeojinSeojin/react-canvas-majayong/static/css/main.11eb8bd5.chunk.css",
+    "main.js": "/SeojinSeojin/react-canvas-majayong/static/js/main.1d6543b6.chunk.js",
+    "main.js.map": "/SeojinSeojin/react-canvas-majayong/static/js/main.1d6543b6.chunk.js.map",
+    "runtime-main.js": "/SeojinSeojin/react-canvas-majayong/static/js/runtime-main.a3c002f9.js",
+    "runtime-main.js.map": "/SeojinSeojin/react-canvas-majayong/static/js/runtime-main.a3c002f9.js.map",
+    "static/js/2.0f4f49aa.chunk.js": "/SeojinSeojin/react-canvas-majayong/static/js/2.0f4f49aa.chunk.js",
+    "static/js/2.0f4f49aa.chunk.js.map": "/SeojinSeojin/react-canvas-majayong/static/js/2.0f4f49aa.chunk.js.map",
+    "static/js/3.5a966393.chunk.js": "/SeojinSeojin/react-canvas-majayong/static/js/3.5a966393.chunk.js",
+    "static/js/3.5a966393.chunk.js.map": "/SeojinSeojin/react-canvas-majayong/static/js/3.5a966393.chunk.js.map",
+    "index.html": "/SeojinSeojin/react-canvas-majayong/index.html",
+    "static/css/main.11eb8bd5.chunk.css.map": "/SeojinSeojin/react-canvas-majayong/static/css/main.11eb8bd5.chunk.css.map",
+    "static/js/2.0f4f49aa.chunk.js.LICENSE.txt": "/SeojinSeojin/react-canvas-majayong/static/js/2.0f4f49aa.chunk.js.LICENSE.txt",
+    "static/media/background.d40c5dde.svg": "/SeojinSeojin/react-canvas-majayong/static/media/background.d40c5dde.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3c002f9.js",
+    "static/js/2.0f4f49aa.chunk.js",
+    "static/css/main.11eb8bd5.chunk.css",
+    "static/js/main.1d6543b6.chunk.js"
+  ]
+}

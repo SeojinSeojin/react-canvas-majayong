@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,QACJ,CAEA,KACI,eACJ","file":"main.11eb8bd5.chunk.css","sourcesContent":["* {\n    margin: 0;\n}\n\n.App {\n    overflow: hidden;\n}"]}
