@@ -27,15 +27,16 @@ const MapCanvas = () => {
     if (newY < 0 || newY > canvasRef.current.height - MAP_CONSTANTS.IMG_HEIGHT)
       return;
     positionRef.current = { x: newX, y: newY };
-    setCurrentFrame((prev) => prev + 1);
+    setCurrentFrame((prev) =>
+      prev < MAP_CONSTANTS.FRAMES_LENGTH ? prev + 1 : 0
+    );
   };
 
   const render = () => {
     const canvas = canvasRef.current;
     const context = canvas.getContext("2d");
     const wobbuffetsImage = new Image();
-    const frameIndex = currentFrame % MAP_CONSTANTS.FRAMES_LENGTH;
-    wobbuffetsImage.src = wobbuffetsArray[frameIndex];
+    wobbuffetsImage.src = wobbuffetsArray[currentFrame];
     wobbuffetsImage.onload = () => {
       canvas.width = window.innerWidth;
       canvas.height = window.innerHeight;

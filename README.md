@@ -10,6 +10,9 @@ with React & Canvas
 ### Github-Pages Demo
 https://seojinseojin.github.io/react-canvas-majayong/
 
+### Related Documents
+https://velog.io/@1106laura/react-canvas-requestanimationframe
+
 ### Reference
 **Image Assets**
 * Wobbuffets : http://akamyselfyourself.blogspot.com/2015/02/my-top-10-favourite-pokemon.html
